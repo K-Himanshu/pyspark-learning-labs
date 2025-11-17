@@ -16,8 +16,11 @@ A hands-on PySpark learning repository covering real-world transformations, UDFs
 - PySpark ML basics
 
 ## 📂 Folder Structure
+```
 pyspark-learning-labs/
 │
-├── notebooks/ # Jupyter notebooks with examples
-├── src/ # Python scripts
-└── data/ # Sample datasets
+├── notebooks/
+├── src/
+└── data/
+```
+
